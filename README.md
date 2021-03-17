@@ -34,11 +34,11 @@ Also you can choose the side of mounting the motor, I mirrored all parts to both
 
 All parts for 3D printing are on [thingiverse project page](https://www.thingiverse.com/thing:4783606)
 
-![](https://i.ibb.co/72Cv8DY/servo-verzia-lava1.png)
-![](https://i.ibb.co/3ztyH5z/servo-verzia-lava.png)
-![](https://i.ibb.co/2h6PdQr/IMG-20190520-203901.jpg)
-![](https://i.ibb.co/PDZDb6D/IMG-20190520-203852.jpg)
-![](https://i.ibb.co/RzhmBQ9/IMG-20190520-194750.jpg)
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ### If You liked my work, You can buy me a coffee :)
 
