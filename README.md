@@ -32,13 +32,12 @@ For fully closing/opening this approximately 160cm roller takes about 5 minutes,
 Also you can choose the side of mounting the motor, I mirrored all parts to both sides. You can swap PIN order in ESPHome config file. (See Stepper motor definition)
 
 
-All parts for 3D printing are on [thingiverse project page](https://www.thingiverse.com/thing:4783606)
+All parts for 3D printing are on [thingiverse project page.](https://www.thingiverse.com/thing:4783606)
 
-![]()
-![]()
-![]()
-![]()
-![]()
+![Controller render](/Images/controller_render1.png)
+![Controller render](/Images/controller_render2.png)
+![Controller render](/Images/controller_render3.png)
+
 
 ### If You liked my work, You can buy me a coffee :)
 
